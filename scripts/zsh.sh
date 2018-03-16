@@ -26,5 +26,4 @@ else
   echo "zsh-git-prompt already installed ..."
 fi
 
-source $HOME/.zshrc
 zplug install
