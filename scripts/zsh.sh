@@ -25,3 +25,6 @@ if [ ! -d $HOME/zsh-git-prompt ]; then
 else
   echo "zsh-git-prompt already installed ..."
 fi
+
+source $HOME/.zshrc
+zplug install
